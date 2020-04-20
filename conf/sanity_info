@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/nishant/poky/build/tmp
+SSTATE_DIR /home/nishant/poky/build/sstate-cache
+NATIVELSBSTRING ubuntu-18.04
